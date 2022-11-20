@@ -65,8 +65,9 @@ Read [this](https://telegram.dog/sources_cods) before you start messing up with 
 
 
 ## Deploy
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/99zauu?referralCode=5gEqCK)
 You can deploy this bot anywhere.
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/99zauu?referralCode=5gEqCK)
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/RWs6sh8m2Uk)**</i>
 
