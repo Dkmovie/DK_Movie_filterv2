@@ -81,11 +81,11 @@ if SELF_DELETE == "True":
     SELF_DELETE = True
 
     # Download Tutorial Button #
-DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = "https://t.me/How_to_Download_From_Search_Bot/2"
+DOWNLOAD_TEXT_NAME = "📥 𝙷𝙾𝚆 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 📥"
+DOWNLOAD_TEXT_URL = "https://mdisk.me/convertor/9x16/qgv1sE"
 
    # Custom Caption Under Button #
-CAPTION_BUTTON = "Subscribe"
-CAPTION_BUTTON_URL = "https://youtube.com/c/GreyMattersBot"
+CAPTION_BUTTON = "🙏 𝙹𝙾𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙻 🙏"
+CAPTION_BUTTON_URL = "https://t.me/DK_Area"
 
    # Auto Delete For Bot Sending Files #
