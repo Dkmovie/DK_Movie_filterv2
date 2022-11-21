@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('⚡ 𝐉𝐎𝐈𝐍 𝐆𝐑𝐎𝐔𝐏⚡', url='https://t.me/greymatter_bots')
+                InlineKeyboardButton('⚡ 𝐉𝐎𝐈𝐍 𝐆𝐑𝐎𝐔𝐏⚡', url='https://t.me/DK_HDmovie')
             ],
             [
                 InlineKeyboardButton('⚡ 𝐉𝐎𝐈𝐍 𝐂𝐇𝐀𝐍𝐍𝐋 ⚡', url=f"https://youtube.com/c/GreyMattersBot"),
@@ -47,8 +47,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ 𝐉𝐎𝐈𝐍 𝐂𝐇𝐀𝐍𝐍𝐋 ⚡', url='https://youtube.com/c/GreyMattersBot'),
-            InlineKeyboardButton('❣ 𝐉𝐎𝐈𝐍 𝐆𝐑𝐎𝐔𝐏 ❣', url='https://t.me/greymatter_bots')
+            InlineKeyboardButton('⚡ 𝐉𝐎𝐈𝐍 𝐂𝐇𝐀𝐍𝐍𝐋 ⚡', url='https://t.me/DK_Gru'),
+            InlineKeyboardButton('❣ 𝐉𝐎𝐈𝐍 𝐆𝐑𝐎𝐔𝐏 ❣', url='https://t.me/DK_HDmovie')
             ],[
             InlineKeyboardButton('♻️ 𝐇𝐄𝐋𝐏 ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ 𝐀𝐁𝐎𝐔𝐓 ♻️', callback_data='about')
@@ -93,8 +93,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ 𝐉𝐎𝐈𝐍 𝐂𝐇𝐀𝐍𝐍𝐋 ⚡', url='https://youtube.com/c/GreyMattersBot'),
-            InlineKeyboardButton('❣ 𝐉𝐎𝐈𝐍 𝐆𝐑𝐎𝐔𝐏 ❣', url='https://t.me/greymatter_bots')
+            InlineKeyboardButton('⚡ 𝐉𝐎𝐈𝐍 𝐂𝐇𝐀𝐍𝐍𝐋 ⚡', url='https://t.me/DK_Gru'),
+            InlineKeyboardButton('❣ 𝐉𝐎𝐈𝐍 𝐆𝐑𝐎𝐔𝐏 ❣', url='https://t.me/DK_HDmovie')
             ],[
             InlineKeyboardButton('♻️ 𝐇𝐄𝐋𝐏 ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ 𝐀𝐁𝐎𝐔𝐓 ♻️', callback_data='about')
