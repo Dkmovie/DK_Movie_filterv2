@@ -378,7 +378,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             f_caption = f_caption
         if f_caption is None:
             f_caption = f"{files.file_name}"
-            reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('𝙋𝙍𝙀𝙎𝙎 𝙈𝙀', url='youtube.com/OpusTechz') ] ] ),
+            reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('𝙋𝙍𝙀𝙎𝙎 𝙈𝙀', url='https://t.me/DK_Gru') ] ] ),
 
         try:
             if AUTH_CHANNEL and not await is_subscribed(client, query):
