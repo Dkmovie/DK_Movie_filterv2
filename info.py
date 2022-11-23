@@ -82,7 +82,7 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 𝙷𝙾𝚆 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 📥"
-DOWNLOAD_TEXT_URL = "https://mdisk.me/convertor/9x16/qgv1sE"
+DOWNLOAD_TEXT_URL = "https://t.me/Morbiusv1_bot?start=Z2V0LTI5NDQ2MTgxNTIzMTc1Mg=="
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "🙏 𝙹𝙾𝙸𝙽 𝙲𝙷𝙰𝙽𝙽𝙻 🙏"
