@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Dkmovie/DK_Moviefilter-url-shortener-bot/blob/main/assets/009564288_Dk_logo.png" alt="Dkmovie,s Logo">
+  <img src="https://github.com/Dkmovie/DK_Moviefilter-url-shortener-bot/blob/main/assets/IMG_20221120_150802_170.jpg" alt="Dkmovie,s Logo">
 </p>
 <h1 align="center">
   <b>Dkmovie Bot</b>
